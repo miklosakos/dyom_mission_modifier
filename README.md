@@ -1,6 +1,6 @@
 # DYOM mission modifier
 
-This Python script allows you to change the "published" state of a DYOM mission.
+This Python script allows you to change the "published" state of a [DYOM](https://dyom.gtagames.nl) mission.
 
 ## Usage
 
@@ -19,3 +19,5 @@ For published missions:
 
 | FA 	| FF 	| FF 	| FF 	|
 |---	|---	|---	|---	|
+
+From my minimal research it looks like there is no checksum check inside the mod to make sure the mission file has not been tampered with.
